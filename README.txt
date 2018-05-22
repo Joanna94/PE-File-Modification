@@ -1,8 +1,8 @@
-Program modyfikuje plik przyklad.exe poprzez podmienienie funkcji sin() na cos().
+Program modyfikuje plik Przyklad.exe poprzez podmienienie funkcji sin() na cos().
 
-Aby zauwa¿yæ dzia³anie modyfikacji, nale¿y najpierw wkleiæ oryginalny plik przyklad.exe do projektu Modyfikacja_Pliku_PE, a nastêpnie uruchomiæ Modyfikacja_Pliku_PE.exe.
+Aby zauwaÅ¼yÄ‡ dziaÅ‚anie modyfikacji, naleÅ¼y najpierw wkleiÄ‡ oryginalny plik Przyklad.exe do projektu Modyfikacja_Pliku_PE, a nastÄ™pnie uruchomiÄ‡ Modyfikacja_Pliku_PE.exe.
 
-Po uruchomieniu zmodyfikowanego przyklad.exe mo¿na zauwa¿yæ zmienione dzia³anie aplikacji.
+Po uruchomieniu zmodyfikowanego Przyklad.exe moÅ¼na zauwaÅ¼yÄ‡ zmienione dziaÅ‚anie aplikacji.
 
-Program nie ma zaimplementowanego sprawdzania poprawnoœci danych, wiêc nale¿y uwa¿aæ aby podaæ mu prawid³owy plik .exe.
-przyklad.exe mo¿na skopiowaæ z projektu aplikacji "przyklad".
+Program nie ma zaimplementowanego sprawdzania poprawnoÅ›ci danych, wiÄ™c naleÅ¼y uwaÅ¼aÄ‡ aby podaÄ‡ mu prawidÅ‚owy plik .exe.
+Przyklad.exe moÅ¼na skopiowaÄ‡ z projektu aplikacji Przyklad.
